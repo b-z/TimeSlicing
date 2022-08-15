@@ -1,4 +1,4 @@
-# TimelapseArt
+# <s>TimelapseArt</s> 「Time Slice」
 
 Generate a combined image from a timelapse image sequence.
 
